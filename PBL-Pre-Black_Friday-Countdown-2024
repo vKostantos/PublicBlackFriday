@@ -1,0 +1,721 @@
+<!-- Reusable ID Test Root: pbc_cat10750001pp -->
+ <!-- Reusable ID Black Friday: pbc_cat7350023pp -->
+
+<!-- PBL - BF24 - LP CSS -->
+ <style>
+    .container main{
+        background-color: #000;
+        color: #fff;
+    }
+    [_nghost-ng-c3352205451] article.article--category[_ngcontent-ng-c3352205451] .card-title[_ngcontent-ng-c3352205451]{
+        color: #fff !important;
+    }
+    [_nghost-ng-c3352205451] article.article--category[_ngcontent-ng-c3352205451] .card-link[_ngcontent-ng-c3352205451]:hover .card-title[_ngcontent-ng-c3352205451]{
+        color: #fe5900 !important;
+    }
+    .reusable-asset>.services{
+        background-color: transparent;
+    }
+    .reusable-asset.faq article,
+    .reusable-asset.faq ul li .accordion {
+        background-color: transparent;
+    }
+    .reusable-asset.faq .tabs span{
+        color: #fff;
+    }
+    .reusable-asset.faq ul.list li:before{
+        background-color: #fff;
+    }
+ </style>
+
+<!-- SimpleBanner_M-NT-GR-MKT-pre-black-friday-Uploaded -->
+<section class="reusable-asset banners-col1 md-banner my-5" style="background-color:#000; color:#fff;">
+	<!-- <div class="reusable-headline">
+		<h3 class="mdc-typography--headline5 title">SimpleBanner_M</h3>
+		<p class="mdc-typography--body2 subtitle">subtitle</p>
+	</div> -->
+	<div class="promo-bunners">
+		<div class="grid-banner">
+			<!-- <a href=""> -->
+				<figure class="embed-responsive embed-responsive-nbyn">
+					<picture>
+						<source media="(min-width:820px)" srcset="https://media.public.gr/reusable/black-friday/2024/Pre-BF/BF_M_des.png" width="1392" height="260">
+						<source media="(min-width:576px)" srcset="https://media.public.gr/reusable/black-friday/2024/Pre-BF/BF_M__tab.png" width="820" height="372">
+						<img src="https://media.public.gr/reusable/black-friday/2024/Pre-BF/BF_M__mob.png" alt="" width="576" height="372" class="embed-responsive-item">
+					</picture>
+				</figure>
+			<!-- </a> -->
+		</div>
+	</div>
+</section>
+
+
+<!--- PublicGR - BF24 - countdown - LP - Intro & Counter --->
+<article class="pbl-grid mt-4" style="background-color:#000; color:#fff;">
+    <div class="d-flex justify-conten-center flex-column">
+        <h2 class="mdc-typography--headline5 mdc-typography--semi-bold text-center">Η Black Friday 2024 πλησιάζει στο Public!<br> Σου ετοιμάζουμε αμέτρητες κορυφαίες προσφορές για τη Μαύρη Παρασκευή!</h2>
+		<div class="my-4 mx-auto">
+			<iframe width="300" height="68" src="https://w2.countingdownto.com/5801694" frameborder="0"></iframe>
+		</div>
+		
+		<!-- <p class="mdc-typography--headline4 doubleScaled--font text-center mb-3 mb-md-4 px-2" style="color:#FDBA12;">Θες να μάθεις πρώτος <br>όλα τα Black Friday 2023 deals;</p> -->
+    </div>
+</article>
+
+
+<!-- HeadSubtext-WT-GR-MKT-pre-black-friday-Uploaded -->
+<section class="reusable-asset reusable-header my-2" style="background-color:#000; color:#fff;">
+    <div class="header-group">
+        <p class="pb-3 w-sm-80 w-md-60 mx-auto mdc-typography--headline5 doubleScaled--font text-center px-2 mdc-typography--regular" style="color: #FDBA12;">
+            Θέλεις να μάθεις πρώτος όλα τα 
+            Black Friday 2024 deals;
+        </p>
+    </div>
+</section>
+
+
+<!--- _PublicGR - BF24 - preteasing - Form --->
+<div style="background-color:#000;">
+   
+	<iframe height="600" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" sandbox="allow-popups-to-escape-sandbox allow-top-navigation allow-scripts allow-popups allow-forms allow-same-origin" src="https://publicstores.wufoo.com/embed/qls2pvi1pmfbqx/"></iframe>
+</div>
+
+
+<!--- PublicGR - BF24 - preteasing - Categories --->
+<style>
+    #pbl-bf-2023 a {
+        color: #fff;
+    }
+    #pbl-bf-2023 .bf-bg,
+    #pbl-bf-2023.bf-bg {
+        background: #000;
+    }
+    #pbl-bf-2023 .bf-bg header,
+    #pbl-bf-2023.bf-bg header {
+        color:#fff;
+    }
+    #pbl-bf-2023 .bg-black {
+        background: #141719;
+    }
+    .container main{
+        overflow: visible;
+    }
+    #pbl-bf-2023 .col>div {
+        border-radius: 12px;
+        overflow: hidden;
+    }
+    #pbl-bf-2023 .col img {
+        max-width: 250px;
+    }
+    #pbl-bf-2023 ul:not(:first-child) li {
+        margin-top: 8px;
+    }
+    /* #pbl-bf-2023 ul li a:after{
+        content: ">";
+        margin-left: 16px;
+        font-size: 20px;
+    } */
+    #pbl-bf-2023 ul li:hover span {
+        transform: translate(30%);
+    }
+    #pbl-bf-2023 ul li:hover a {
+        text-decoration: underline !important;
+    }
+    header.main-title h3::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 4px;
+        bottom: 4px;
+        width: 4px;
+        background-color: #f15a22;
+    }
+    header.main-title h3 {
+        padding-left: 12px;
+        position: relative;
+    }
+    @media only screen and (max-width:819.98px) {
+        #pbl-bf-2023 .row>.col.p-1 {
+            padding-right: 20px !important;
+            padding-left: 20px !important;
+        }
+        header.main-title h3::before {
+            top: 0;
+            left: 50%;
+            width: 24px;
+            height: 4px;
+            transform: translate(-50%);
+        }
+        header.main-title h3 {
+            text-align: center;
+            padding-left: 0;
+            padding-top: 12px;
+        }
+    }
+</style>
+<article id="pbl-bf-2023" class="pbl-grid bf-bg" style="border-radius:0 0 20px 20px;">
+        <header class="main-title p-3">
+            <h3 class="mdc-typography--headline5">Τι ψάχνεις στη Black Friday 2024</h3>
+            <!-- <p class="pb-1 text-center text-sm-left">SubHeader-SubHeader (MAX 60 CHARACTERS)</p> -->
+        </header>
+        <div class="row row-small text-white p-3 m-0 w-100">
+            <div class="col col-12 col-md-6 col-lg-4 d-flex">
+                <div class="d-flex flex-column align-items-center p-3 bg-black w-100">
+                    <h4 class="mdc-typography--subtitle1 text-center">Black Friday Offers σε <br><span class="mdc-typography--headline5 my-2 d-block" style="color: var(--bf-gold);">Τηλεοράσεις &
+                            sound</span>
+                    </h4>
+                    <img class="w-100 h-auto d-block" src="https://media.public.gr/reusable/black-friday/2023/bf2023_tileorais-sound-v2.png" draggable="false" loading="lazy" alt="" width="250" height="250">
+                    <ul class="mdc-typography--subtitle2 text-left align-self-baseline w-100">
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/tileoraseis" aria-label="Top Black Friday Offers σε Τηλεοράσεις">Τηλεοράσεις</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/ihos" aria-label="Top Black Friday Offers σε Ήχο">Ήχος</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col col-12 col-md-6 col-lg-4 d-flex">
+                <div class="d-flex flex-column align-items-center p-3 bg-black w-100">
+                    <h4 class="mdc-typography--subtitle1 text-center">Black Friday Offers σε <br><span class="mdc-typography--headline5 my-2 d-block" style="color: var(--bf-gold);">Τεχνολογία</span>
+                    </h4>
+                    <img class="w-100 h-auto d-block" src="https://media.public.gr/reusable/black-friday/2023/bf2023_technologia-v2.png" draggable="false" loading="lazy" alt="" width="250" height="250">
+                    <ul class="mdc-typography--subtitle2 text-left align-self-baseline w-100">
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/smartphones" aria-label="Top Black Friday Offers σε Τηλεφωνία">Τηλεφωνία</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/tablets" aria-label="Top Black Friday Offers σε Tablets">Tablets</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/wearables-gadgets" aria-label="Top Black Friday Offers σε Wearables & Gadgets">Wearables &
+                                Gadgets</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/emobility" aria-label="Top Black Friday Offers σε eMobility & Drones">eMobility &
+                                Drones</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/fotografikes" aria-label="Top Black Friday Offers σε Φωτογραφικές Μηχανές">Φωτογραφικές
+                                Μηχανές</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/aksesoyar" aria-label="Top Black Friday Offers σε Αξεσουάρ">Αξεσουάρ</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col col-12 col-md-6 col-lg-4 d-flex">
+                <div class="d-flex flex-column align-items-center p-3 bg-black w-100">
+                    <h4 class="mdc-typography--subtitle1 text-center">Black Friday Offers σε <br><span class="mdc-typography--headline5 my-2 d-block" style="color: var(--bf-gold);">PC & Gaming</span>
+                    </h4>
+                    <img class="w-100 h-auto d-block" src="https://media.public.gr/reusable/black-friday/2023/bf2023_pc-gaming-v2.png" draggable="false" loading="lazy" alt="" width="250" height="250">
+                    <ul class="mdc-typography--subtitle2 text-left align-self-baseline w-100">
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/gaming" aria-label="Top Black Friday Offers σε Gaming">Gaming</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/laptops" aria-label="Top Black Friday Offers σε Laptops">Laptops</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/ypologistes/desktops" aria-label="Top Black Friday Offers σε Desktops">Desktops</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/ypologistes/monitors" aria-label="Top Black Friday Offers σε Monitors">Monitors</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/ypologistes/printers" aria-label="Top Black Friday Offers σε Εκτυπωτές">Εκτυπωτές</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/ypologistes/perifereiaka" aria-label="Top Black Friday Offers σε Περιφερειακά PC">Περιφερειακά PC</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col col-12 col-md-6 col-lg-4 d-flex">
+                <div class="d-flex flex-column align-items-center p-3 bg-black w-100">
+                    <h4 class="mdc-typography--subtitle1 text-center">Black Friday Offers σε <br><span class="mdc-typography--headline5 my-2 d-block" style="color: var(--bf-gold);">Οικιακές συσκευές</span>
+                    </h4>
+                    <img class="w-100 h-auto d-block" src="https://media.public.gr/reusable/black-friday/2023/bf2023_oikiakes-siskeves-v2.png" draggable="false" loading="lazy" alt="" width="250" height="250">
+                    <ul class="mdc-typography--subtitle2 text-left align-self-baseline w-100">
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/klimatismos-kai-thermansi/afygrantires" aria-label="Top Black Friday Offers σε Αφυγραντήρες & Ιονιστές">Αφυγραντήρες & Ιονιστές</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/klimatismos-kai-thermansi/klimatistika" aria-label="Top Black Friday Offers σε Κλιματιστικά">Κλιματιστικά</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/oikiakes-syskeues/psygeia" aria-label="Top Black Friday Offers σε Ψυγεία">Ψυγεία</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/oikiakes-syskeues/plintiria" aria-label="Top Black Friday Offers σε Πλυντήρια ρούχων">Πλυντήρια ρούχων</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/mikrosuskeues/skoupes" aria-label="Top Black Friday Offers σε Ηλεκτρικές σκούπες  ">Ηλεκτρικές σκούπες</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/oikiakes-syskeues/fournoi" aria-label="Top Black Friday Offers σε Φούρνοι και Κουζίνες">Φούρνοι και Κουζίνες</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/mikrosuskeues/kafetieres" aria-label="Top Black Friday Offers σε Καφετιέρες ">Καφετιέρες </a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <!-- <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/mikrosuskeues/proino" aria-label="Top Black Friday Offers σε Πρωινό">Πρωινό</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li> -->
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/klimatismos-kai-thermansi/thermansh" aria-label="Top Black Friday Offers σε Θέρμανση">Θέρμανση</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <!-- <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/mikrosuskeues/proetoimasia-fagitou" aria-label="Top Black Friday Offers σε Προετοιμασία Φαγητού">Προετοιμασία Φαγητού</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li> -->
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/mikrosuskeues/sidero" aria-label="Top Black Friday Offers σε Σιδέρωμα">Σιδέρωμα</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/peripoihsh" aria-label="Top Black Friday Offers σε Προσωπική φροντίδα">Προσωπική φροντίδα</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/mikrosuskeues/skeui-mageirikis-axesouar" aria-label="Top Black Friday Offers σε Σκεύη & Αξεσουάρ Μαγειρικής">Σκεύη & Αξεσουάρ Μαγειρικής</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col col-12 col-md-6 col-lg-4 d-flex">
+                <div class="d-flex flex-column align-items-center p-3 bg-black w-100">
+                    <h4 class="mdc-typography--subtitle1 text-center">Black Friday Offers σε <br><span class="mdc-typography--headline5 my-2 d-block" style="color: var(--bf-gold);">Βιβλία & Ψυχαγωγία</span>
+                    </h4>
+                    <img class="w-100 h-auto d-block" src="https://media.public.gr/reusable/black-friday/2023/bf2023_biblia-phichagogia-v2.png" draggable="false" loading="lazy" alt="" width="250" height="250">
+                    <ul class="mdc-typography--subtitle2 text-left align-self-baseline w-100">
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/vivlia" aria-label="Top Black Friday Offers σε Βιβλία & Κόμικς">Βιβλία & Κόμικς</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/toys" aria-label="Top Black Friday Offers σε Παιχνίδια">Παιχνίδια</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/home-entertainment/music" aria-label="Top Black Friday Offers σε Μουσική & Ταινίες">Μουσική & Ταινίες</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/xartika" aria-label="Top Black Friday Offers σε Χαρτικά & είδη δώρου">Χαρτικά & είδη δώρου</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col col-12 col-md-6 col-lg-4 d-flex">
+                <div class="d-flex flex-column align-items-center p-3 bg-black w-100">
+                    <h4 class="mdc-typography--subtitle1 text-center">Black Friday Offers σε <br><span class="mdc-typography--headline5 my-2 d-block" style="color: var(--bf-gold);">Είδη Σπιτιού & Hobbies</span>
+                    </h4>
+                    <img class="w-100 h-auto d-block" src="https://media.public.gr/reusable/black-friday/2023/bf2023_eidi-spitiiou-kai-hobbies-v2.png" draggable="false" loading="lazy" alt="" width="250" height="250">
+                    <ul class="mdc-typography--subtitle2 text-left align-self-baseline w-100">
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/hobby" aria-label="Top Black Friday Offers σε Hobby & ελεύθερος χρόνος ">Hobby & ελεύθερος χρόνος
+                            </a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/eidi-spitiou" aria-label="Top Black Friday Offers σε Είδη σπιτιού ">Είδη σπιτιού </a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/vrefika" aria-label="Top Black Friday Offers σε Βρεφικά">Βρεφικά</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                        <li class="d-flex flex-row justify-content-between align-items-center">
+                            <a class="text-decoration-none" type="button" href="/cat/black-friday/organa-gymnastikis" aria-label="Top Black Friday Offers σε Όργανα γυμναστικής">Όργανα γυμναστικής</a>
+                            <span class="ic--large ic-chevron-right" title="ic-chevron-right"></span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+</article>
+
+
+<!-- PublicGR - BF24 - Services - Klarna & Wallet & BoxNow & ExpressPickUp -->
+<section class="reusable-asset my-5">
+	<div class="px-lg-4 py-4 px-3 services d-flex flex-column">
+		<div class="reusable-headline m-0">
+			<h3 class="mdc-typography--headline5 title">Γιατί Black Friday 2024 στα Public;</h3>
+			<!-- <p class="mdc-typography--body2 subtitle">subtitle</p> -->
+		</div>
+		<!-- <div class="scol-1">
+			<div class="service-wrapper">
+				<a href="/page/safety-net" class="service" style="background-color: #FFC300;color:#000">
+					<img src="https://media.public.gr/images/lp/202406-services/safetynet-icon.png" class="srv-icon" alt="SafetyNet" width="56" height="56">
+					<div class="service-title">
+						<h4 class="mdc-typography--subtitle1">SafetyNet</h4>
+						<p class="mdc-typography--body4 mdc-typography--regular mt-2">Επέκταση εγγύησης & προστασία κλιματιστικών για 5 έτη!</p>
+					</div>
+					<span class="ml-auto ic--large ic-chevron-right"></span>
+				</a>
+			</div>
+		</div> -->
+		<div class="scol-1 scol-sm-2">
+			<div class="service-wrapper">
+				<a href="/page/klarna" class="service" style="background-color:#8053A6;color:#fff">
+					<img src="https://media.public.gr/images/lp/202406-services/klarna2.png" class="srv-icon" alt="Klarna" width="56" height="56">
+					<div class="service-title">
+						<h4 class="mdc-typography--subtitle1">ΟΛΑ ΑΤΟΚΑ σε 3 δόσεις</h4>
+						<p class="mdc-typography--body4 mdc-typography--regular mt-2">Με <strong>Klarna</strong> επιλέγεις δόσεις, χωρίς πιστωτική!</p>
+					</div>
+					<span class="ml-auto  ic--large ic-chevron-right"></span>
+				</a>
+			</div>
+			<div class="service-wrapper">
+				<a href="/page/publicplus" class="service" style="background-color:#9779c3;color:#fff">
+					<img src="https://media.public.gr/images/lp/202406-services/wallet2.png" class="srv-icon" alt="Public +" width="56" height="56">
+					<div class="service-title">
+						<h4 class="mdc-typography--subtitle1">Επιστροφή αξίας στο Wallet</h4>
+						<p class="mdc-typography--body4 mdc-typography--regular mt-2">Γίνε μέλος <strong>Public +</strong> για ακόμα περισσότερα προνόμια</p>
+					</div>
+					<span class="ml-auto  ic--large ic-chevron-right"></span>
+				</a>
+			</div>
+		</div>
+		<div class="scol-1 scol-sm-2">
+			<h3 class="mdc-typography--headline7 w-100">Γρήγορη &amp; Άμεση παράδοση</h3>
+			<div class="service-wrapper">
+				<a href="/page/locker-pickup" class="service" style="background-color:#015758;color:#fff">
+					<img src="https://media.public.gr/images/lp/202406-services/lockers.png" class="srv-icon" alt="Lockers Box Now" width="56" height="56">
+					<div class="service-title">
+						<h4 class="mdc-typography--subtitle1">2400+ Box Now Lockers</h4>
+						<p class="mdc-typography--body4 mdc-typography--regular mt-2"><strong>Ευέλικτη παραλαβή</strong> όπως και όπου θες.</p>
+					</div>
+					<span class="ml-auto  ic--large ic-chevron-right"></span>
+				</a>
+			</div>
+			<div class="service-wrapper">
+				<a href="/page/express-pickup" class="service" style="background-color: #9E1409;color:#fff">
+					<img src="https://media.public.gr/images/lp/202406-services/express.png" class="srv-icon" alt="FlexPay" width="56" height="56">
+					<div class="service-title">
+						<h4 class="mdc-typography--subtitle1">Παραλαβή σε 60'</h4>
+						<p class="mdc-typography--body4 mdc-typography--regular mt-2">Με την υπηρεσία <strong>ExpressPickup</strong> παραγγέλνεις online και παραλαμβάνεις από ένα κατάστημα σε 60'</p>
+					</div>
+					<span class="ml-auto  ic--large ic-chevron-right"></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<!-- FAQs-Tabs-WT-GR-MKT-pre-black-friday-Uploaded -->
+<section class="faq reusable-asset my-5">
+    <article>
+            <h3 class="mdc-typography--headline5 mb-4">Συχνές ερωτησεις</h3>
+            <div class="tabs">  
+                <span class="mdc-typography--body1 tab-btn active" data-group="genika">Γενικές πληροφορίες</span>
+                <span class="mdc-typography--body1 tab-btn" data-group="prosfores">Προσφορές</span>
+                <span class="mdc-typography--body1 tab-btn" data-group="ypiresies">Υπηρεσίες</span>
+                <span class="mdc-typography--body1 tab-btn" data-group="tips">Tips</span>
+            </div>
+            <div id="genika" class="faq-container active">
+                <ul class="d-flex flex-column">
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Τι είναι, τέλος πάντων, η Black Friday;</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">                          
+                            <p>Όλοι συζητάμε για την Black Friday αλλά πόσοι ξέρουμε πραγματικά τι είναι Μπλακ Φράιντεϊ; Ο θεσμός της «Μαύρης Παρασκευής» ξεκίνησε από τις ΗΠΑ το 1932 και συνεχίζεται δυναμικά ως και σήμερα σε όλο τον κόσμο. Είναι με διαφορά η αγαπημένη ημέρα των αγοραστών, γιατί τους δίνει την ευκαιρία να εντοπίσουν εγκαίρως τα προϊόντα που τους ενδιαφέρουν και την κατάλληλη στιγμή να… σκοράρουν σε Black Friday προσφορές!</p>                                
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Black Friday 2024: Πότε είναι τελικά στην Ελλάδα;</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Φέτος η Black Friday πέφτει στις 29 Νοεμβρίου 2024, περίπου έναν μήνα πριν από τα Χριστούγεννα. Οπότε είναι μια καλή ευκαιρία να αξιοποιήσετε μέρος του budget για τις αγορές των γιορτών, ειδικά αν έχετε βάλει… στόχο προϊόντα τεχνολογίας. Και για όσους αναρωτιούνται κάθε χρόνο πότε φτάνει η μεγάλη γιορτή των προσφορών, να θυμούνται ότι είναι η τελευταία Παρασκευή κάθε Νοεμβρίου και πως κάθε Black Friday στο Public είναι ακόμα πιο δυνατή από την προηγούμενη!</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Μέχρι πότε ισχύει η Black Friday στην πράξη;
+                            </h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Στην αρχή η Black Friday διαρκούσε για 24 ώρες. Ωστόσο, τα τελευταία χρόνια η διάρκειά της Μπλακ Φράιντεϊ έχει παραταθεί. Το πόσο καιρό θα κρατήσει εξαρτάται από το κάθε κατάστημα, συχνά όμως παρατηρείται πως φτάνει έως την Δευτέρα 27 Νοεμβρίου που είναι η “Cyber Monday”. Ωστόσο, μπορείς να αρχίσεις από τώρα να φτιάχνεις την wishlist σου για να είσαι σε πλήρη ετοιμότητα αγορών και να μη σου ξεφύγει ούτε gadget! Φυσικά μην ξεχνάς ότι ο καλύτερός σου σύμμαχος σε αυτό είναι το newsletter του Public, οπότε μη χάνεις χρόνο και κάνε εγγραφή!</p>                                
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Subtitle - 5</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Κάθε χρόνο «παραδοσιακά» η Black Friday πέφτει Νοέμβριο και γιορτάζεται την 4η Πέμπτη κάθε Νοέμβρη.
+                            </p>
+                            <ul class="list my-3 mdc-typography--body1 scaled--font">
+                                <li>Black Friday 2024: 29 Νοεμβρίου</li>
+                                <li>Black Friday 2023: 24 Νοεμβρίου</li>
+                                <li>Black Friday 2022: 26 Νοεμβρίου</li>
+                                <li>Black Friday 2021: 27 Νοεμβρίου</li>
+                            </ul>  
+                            <p>Να συνεχίσουμε; Λογικά κατάλαβες ότι τα πιο hot deals έρχονται την Μπλακ Φράιντεϊ, τον κρύο μήνα του Νοεμβρίου!
+                            </p>                             
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div id="prosfores" class="faq-container">
+                <ul class="d-flex flex-column">
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Τι Black Friday προσφορές θα βρω φέτος στο Public;                            </h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">                          
+                            <p>Όπως κάθε χρόνο, έτσι και φέτος το Public θα φροντίσει για τις πιο δυνατές Black Friday προσφορές. Οι τιμές στα προϊόντα τεχνολογίας θα είναι και φέτος από τις πιο χαμηλές. Οι πιο σημαντικές κατηγορίες σε wearables όπως <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/wearables-gadgets/smartwatches">smartwatches</a>, eMobility gadgets όπως <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/emobility/drones">drones</a>, τα πάντα για τον ήχο όπως soundbars, ασύρματα ακουστικά, <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/ihos/bluetooth">ηχεία bluetooth</a>, αξεσουάρ, υπολογιστές και περιφερειακά όπως <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/ypologistes/printers">εκτυπωτές</a>, monitors και άλλα, <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/oikiakes-syskeues">οικιακές συσκευές</a> όπως πλυντήρια ρούχων, πλυντήρια πιάτων, ψυγεία, στεγνωτήρια, φούρνοι, κουζίνες, <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/mikrosuskeues">οικιακές μικροσυσκευές</a> όπως ηλεκτρικές σκούπες, καφετιέρες και άλλα, τα πάντα για <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/klimatismos-kai-thermansi">κλιματισμό και θέρμανση</a> όπως κλιματιστικά και αφυγραντήρες, αλλά και πολλές επιλογές για την ψυχαγωγία σου όπως <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/vivlia">βιβλία</a>, μουσική και ταινίες. Φέτος, όλα θα έχουν την τιμητική τους στα καταστήματα Public και το public.gr!</p>                                
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Ποια είναι τα best sellers της Black Friday;</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Στον «μαραθώνιο» της Black Friday πάντα έχουν τιμητική τους τα κινητά τηλέφωνα, οι τηλεοράσεις, τα smartwatches, οι θήκες κινητών, gaming περιφερειακά όπως gaming headsets, καρέκλες gaming, πληκτρολόγια, οικιακές συσκευές όπως στεγνωτήρια, μηχανές καφέ και πολλά ακόμη που gadget που συνήθως θέλουν προϋπολογισμό για να αγοραστούν. Άλλωστε η Black Friday είναι από τη φύση της μια ευκαιρία να αγοράσεις κάτι που χρειάζεσαι καιρό και όλο αναβάλλεις.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Θα βρώ Black Friday προσφορές και στα iphone φέτος στα Public;</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Φυσικά! Και φέτος θα βρεις τις καλύτερες <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/ana-brand/iphone">Black Friday προσφορές σε iPhone</a> μόνο στα Public, μιας και ως γνωστόν είμαστε και εμείς Apple Lovers!  Επίσης, τα αγαπημένα σου <a type="button" class="text-info" href="https://www.public.gr/cat/apple/iphone/iphone15">iPhone 15</a> είναι πλέον στα Public και σε περιμένουν να διαλέξεις το αγαπημένο και να το κάνεις δικό σου –αν δεν το έχεις ήδη αποκτήσει!</p>                                
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Θα βρώ και προσφορές Black Friday στις τηλεοράσεις το 2024 στα Public;
+                            </h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Τηλεοράσεις και Black Friday πηγαίνουν μαζί! Φέτος στα Public θα βρεις τις καλύτερες προσφορές και στις <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/tileoraseis">τηλεοράσεις</a>, όπως πάντα! Στα Public θα βρεις τη μεγαλύτερη ποικιλία από τα αγαπημένα σου TV brands έτσι ώστε να διαλέξεις το αγαπημένο σου μοντέλο! Το μόνο που πρέπει να κάνεις είναι να μείνεις συντονισμένος! Μη ξεχνάς ότι φέτος ο Νοέμβρης συνδυάζεται με το Παγκόσμιο οπότε σκέψου σοβαρά αν θες TV με 50, 60 ή 75 ιντσών οθόνη!</p>                                
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Θα έχει Black Friday deals και στα κινητά φέτος στα Public;</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Ναι, μπορείς και φέτος να διαλέξεις το αγαπημένο σου smartphone κινητό από την πλούσια ποικιλία που σου προσφέρουν τα Public! Βρες το αγαπημένο σου brand και κλείσε το καλύτερο Black Friday deal.</p>                                
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Άρα για Μπλακ Φράιντεϊ προσφορές σε laptops, gaming και προϊόντα τεχνολογίας φέτος συντονιζόμαστε πάλι στα Public;</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Και όχι μόνο! Στον νο1 προορισμό για τεχνολογία στην Ελλάδα θα βρεις τις καλύτερες Black Friday προσφορές για ακόμη μία χρονιά! Έλα μια βόλτα από το κοντινότερο κατάστημα Public ή το public.gr και ανακάλυψε μια μεγάλη ποικιλία σε gadget που έχει βάλει στο μάτι καιρό. Ωστόσο λόγω της ημέρας, σου προτείνουμε να κάνεις focus σε πιο ακριβά προϊόντα, αφού σκοπός είναι να αποκτήσεις εκείνα που την υπόλοιπη χρονιά είναι απαγορευτικά για το budget σου.</p>                                
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Εγώ όμως ψάχνω οικιακές συσκευές. Θα έχετε και εκεί Μπλακ Φράιντεϊ ευκαιρίες;</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Και βέβαια! Πλέον μπορείς να ζήσεις το σπίτι σου στο έπακρο αφού θα βρεις όλα όσα χρειάζεσαι στα Public και αυτό δεν θα μπορούσε να μην ισχύει για τις οικιακές συσκευές κατά τη διάρκεια του… Black November! Αμέτρητες top προσφορές σε 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/oikiakes-syskeues/psygeia">ψυγεία</a>, 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/oikiakes-syskeues/plintiria-piatwn">πλυντήρια πιάτων</a>, 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/oikiakes-syskeues/plintiria">πλυντήρια ρούχων</a>, 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/oikiakes-syskeues/stegnothria">στεγνωτήρια</a>, 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/oikiakes-syskeues/fournoi">φούρνους</a>, 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/mikrosuskeues/kafetieres">καφετιέρες</a>, 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/mikrosuskeues/sidero">ατμοσίδερα</a>, 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/mikrosuskeues/skoupes">ηλεκτρικές σκούπες</a>
+                                 καθώς και κάθε λογής μικρές ή μεγάλες οικιακές συσκευές σε περιμένουν να τις ανακαλύψεις!</p>                                
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Θέλω κι άλλο! Θα έχει Black Friday προσφορές και στα προϊόντα του Public Marketplace;</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Φυσικά! O μεγαλύτερος online προορισμός αγορών στην Ελλάδα το Public Marketplace μέσω της ιστοσελίδας public.gr, θα φιλοξενεί προσφορές, εκπτώσεις και μεγάλες ευκαιρίες σε όλες τις κατηγορίες προϊόντων των συνεργαζόμενων πωλητών. Είδη τεχνολογίας, είδη σπιτιού, προσωπική φροντίδα, fitness and sports, hobby και ελεύθερος χρόνος με χιλιάδες προσφορές στον Νο1 online προορισμό!</p>                                
+                        </div>
+                        <li>
+                            <div class="accordion">
+                                <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Μπορώ να βρω κάπου συγκεντρωμένες τα Black Friday offers ανά brand;</h4>
+                            </div>
+                            <div class="accordionBody mdc-typography--body2">
+                                <p>>Φυσικά! Για να σου κάνουμε τη ζωή λίγο πιο εύκολη στα Public συγκεντρώσαμε τις Black Friday προσφορές ανά δημοφιλές brand, για να τις χαζέψεις πιο εύκολα! Πιο συγκεκριμένα θα βρεις προσφορές για τα εξής brands: 
+                                    <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/ana-brand/samsung">Samsung</a>, 
+                                    <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/ana-brand/iphone">iPhone</a>, 
+                                    <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/ana-brand/xiaomi">Xiaomi</a>, 
+                                    <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/ana-brand/huawei">Huawei</a>, 
+                                    <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/ana-brand/lego">Lego</a>, 
+                                    <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/ana-brand/playmobil">Playmobil</a>. </p>                                
+                            </div>
+                        </li>
+                        <li>
+                            <div class="accordion">
+                                <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Δηλαδή για καινούργιο κινητό, TV, Laptop ή gaming κονσόλα θα συντονιστώ και φέτος στα Public;</h4>
+                            </div>
+                            <div class="accordionBody mdc-typography--body2">
+                                <p>Και όχι μόνο! Στον νο1 προορισμό για τεχνολογία στην Ελλάδα θα βρεις τις καλύτερες Black Friday προσφορές για ακόμη μία χρονιά! Εσύ το μόνο που έχεις να κάνεις είναι να μην… ξεχαστείς! Συμπλήρωσε την παραπάνω φόρμα και θα μάθεις όλες τις προσφορές είτε ψάχνεις κινητό, είτε το νέο σου laptop, καινούργιο tablet, νέα gaming κονσόλα ή θες να ανανεώσεις την τηλεόραση του σπιτιού σου, μια βόλτα από το κοντινότερο κατάστημα Public ή το public.gr είναι μονόδρομος. Ωστόσο λόγω της ημέρας, σου προτείνουμε να κάνεις focus σε πιο ακριβά προϊόντα, αφού σκοπός είναι να αποκτήσεις εκείνα που την υπόλοιπη χρονιά είναι απαγορευτικά για το budget σου.</p>                                
+                            </div>
+                        </li>
+                        <li>
+                            <div class="accordion">
+                                <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Black Friday σε Χριστουγεννιάτικα είδη έχετε;</h4>
+                            </div>
+                            <div class="accordionBody mdc-typography--body2">
+                                <p>Αν και τα <a type="button" class="text-info" href="https://www.public.gr/cat/hobbies/epohiaka-eidi/hristoygenna/dentra">Χριστουγεννιάτικα δέντρα</a> και τα <a type="button" class="text-info" href="https://www.public.gr/root/dora/xristoygenniatika">Χριστουγεννιάτικα είδη</a> γενικότερα δεν συμμετέχουν στη φετινή Black Friday, να ξέρεις ότι:</p>                                
+                                <ul class="list my-3 mdc-typography--body1 scaled--font">
+                                    <li>συνοδεύονται από πραγματικά πολύ οικονομικές τιμές</li>
+                                    <li>στα Public θα βρεις τεράστια ποικιλία σε αμέτρητα είδη</li>
+                                    <li>η πληρωμή με Klarna ισχύει και για τα XMAS προϊόντα!</li>
+                                </ul>
+                            </div>
+                        </li>
+                    </li>
+                </ul>
+            </div>
+            <div id="ypiresies" class="faq-container">
+                <ul class="d-flex flex-column">
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Μπορώ να κάνω Black Friday αγορές με δόσεις αν δεν έχω πιστωτική κάρτα;</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">                          
+                            <p>Στα Public όλα είναι δυνατά! Ακόμη και οι αγορές με δόσεις χωρίς να έχεις πιστωτική! Τσέκαρε την υπηρεσία Klarna, Public now Pay later που διαθέτουμε και κάνε τις αγορές σου με έως και 3 άτοκες δόσεις χωρίς τη χρήση πιστωτικής κάρτας, για όλα τα προϊόντα μας, είτε συμμετέχουν στην Black Friday είτε όχι!</p>                                
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Black Friday online ή στα καταστήματα φέτος;</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Όπου θέλεις! Αν δεν σε «εμποδίζει» η πολυκοσμία και θέλεις να εξερευνήσεις από κοντά τα gadget που έχεις στη λίστα σου, τότε επισκέψου το κοντινότερο κατάστημα και δες από κοντά την Black Friday προσφορά που θα σε συναρπάσει! Εναλλακτικά, μπορείς να κάνεις τις παραγγελίες σου online και να γεμίσεις το ηλεκτρονικό σου καλάθι με όλη τη wishlist που έχεις και να τα παραλάβεις σύντομα στην πόρτα σου! Μείνε λοιπόν συντονισμένος για να μάθεις πρώτος ποιες Black Friday προσφορές θα παίξουν τον φετινό Νοέμβριο στα Public!</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Συμμετέχουν όλα τα καταστήματα Public στη Black Friday 2024;</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Φυσικά! Κάθε χρόνο μπορείς να κάνεις τις Black Friday αγορές σου είτε online είτε από οποιοδήποτε κατάστημά μας προτιμάς!</p>                                
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Πρέπει να γνωρίζω κάτι άλλο για τις Black Friday προσφορές στα Public;</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Όχι, όπως πάντα μπορείς να παραλάβεις τα αγαπημένα σου προϊόντα δωρεάν από όλα μας τα καταστηματα ενώ για παραγγελίες είναι 3€ τα μεταφορικά, και για <a type="button" class="text-info" href="https://www.public.gr/root/oikiakes-syskeyes">Οικιακές Συσκευές</a> &amp; <a type="button" class="text-info" href="https://www.public.gr/cat/black-friday/klimatismos-kai-thermansi/klimatistika">Κλιματιστικά</a> είναι 9.99€! Για οτιδήποτε άλλο μείνε συντονισμένος στα Public!</p>                                
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div id="tips" class="faq-container">
+                <ul class="d-flex flex-column">
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">«Σκάναρε» προσφορές αρκετές ημέρες πριν την Black Friday 2024</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">                          
+                            <p>Η απαραίτητη έρευνα αγοράς ξεκινάει από τις αρχές του μήνα – αν δεν έχει ξεκινήσει ήδη από τον Οκτώβρη. Ο σωστός, ο οργανωμένος shopper αρχίζει με διαδικτυακές «βόλτες», σημειώνει τιμές για τα προϊόντα που τον ενδιαφέρουν και στήνει μεθοδικά τη wishlist του ελέγχοντας τις διακυμάνσεις των τιμών. Αυτό είναι πολύ σημαντικό προκειμένου να βρεις τα καλύτερα Black Friday deals και να κάνεις τικ σε όλη τη λίστα με αυτά που χρεάζεσαι!</p>                                
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Διπλοτσέκαρε το budget σου</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Θεώρησε δεδομένο ότι θα… ξεμυαλιστείς από τις προσφορές και ενώ στόχος σου είναι να αγοράσεις «την τηλεόραση και μόνο», θα βρεθείς ως δια μαγείας με δεύτερη καφετιέρα! Οπότε «κλείδωσε» στο ποσό που σχεδιάζεις να ξοδέψεις και μείνε… όσο πιο πιστός μπορείς σε αυτό.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Λίστα και πάλι λίστα!</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Μπορεί να θεωρείς τις λίστες δείγμα ψυχαναγκασμού, αλλά για τη Black Friday είναι κάτι παραπάνω από αναγκαίες: για να μη «χάσεις την μπάλα» με όλα τα deals που θα περνούν μπροστά από τα μάτια σου, φρόντισε να καταγράψεις όλα αυτά που πράγματι χρειάζεσαι. Έχοντας φτιάξει μια λίστα με όλα τα αντικείμενα που χρειάζεσαι θα είσαι σίγουρος ότι δεν θα σου ξεφύγει τίποτα και θα μπορέσεις να κάνεις και σωστή αξιολόγηση των πραγμάτων που χρειάζεσαι έτσι ώστε να μην βγεις κι εκτός budget.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Σύμμαχός σου τα newsletter στην Black Friday 2024!</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Ναι, τα καταστήματα μπορεί να ανοίγουν τις πόρτες τους νωρίς το πρωί της Παρασκευής, όμως οι προσφορές σε sites και e-shops ενεργοποιούνται λίγο μετά τα μεσάνυχτα, από τα πρώτα λεπτά της ημέρας. Γράψου σε όσα περισσότερα newsletter μπορείς, κράτα αρχείο με τα προϊόντα που σε ενδιαφέρουν και από το βράδυ της Πέμπτης προς ξημερώματα Παρασκευής φτιάξε δυνατό καφέ και προετοιμάσου για ξενύχτι μεν, έξυπνες αγορές δε μπροστά στην οθόνη! Σκέψου να χρειάζεσαι οικιακές συσκευές όπως ψυγείο ή μια σκούπα και να σου ξεφύγουν οι προσφορές κάτω από τη μύτη σου!</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Εμπρός καλά μου αθλητικά!</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Αν πάλι προτιμάς να δεις και να τεστάρεις μια τελευταία φορά όσα θες να αγοράσεις, φόρα τα πιο άνετα ρούχα σου, μαλακά παπούτσια, φόρτισε power bank και ετοιμάσου για μεγάλες ουρές αλλά και μεγάλες προσφορές! Στα Public φροντίζουμε άλλωστε και για τη φυσική σου κατάσταση προσφέροντάς σου τα καλύτερα όργανα γυμναστικής στις πιο απίστευτες Black Friday τιμές!
+
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Βάλε ψηλά τον πήχη!</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Λόγω της ημέρας, προτίμησε να κάνεις focus στα ακριβά προϊόντα. Σκοπός είναι να αποκτήσεις όλα εκείνα που τον υπόλοιπο χρόνο είναι απαγορευτικά για το budget σου. Οπότε επικεντρώσου σε ακριβά είδη τεχνολογίας, για να πετύχεις μια καλή αναλογία τιμής/απόδοσης. Άλλωστε αυτό είναι το νόημα των προσφορών! Think big!</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Πώς θα μαθαίνω πρώτος για τα 2024 Black Friday deals;</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Είπαμε, σύμμαχός σου τα newsletters και όλες οι ενημερώσεις του Public.gr για προσφορές. Πήγαινε στο κάτω μέρος του site μας, κάνε εγγραφή για να λαμβάνεις τα newsletter μας και ακολούθησέ μας σε Facebook, Instagram και Twitter, για να μαθαίνεις πρώτος όλα τα νέα των Black Friday προσφορών!</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="accordion">
+                            <h4 class="mdc-typography--subtitle1 align-items-center flex-row-reverse justify-content-between d-flex ic--large animate-fast ic-chevron-down">Τέλεια, Pre-Black Friday deals παίζουν ωστόσο;</h4>
+                        </div>
+                        <div class="accordionBody mdc-typography--body2">
+                            <p>Μα φυσικά! Στα Public παντα κάτι παίζει οπότε δεν θα σε αφήναμε έτσι! Μέχρι να ανακοινωθούν οι φετινές προσφορές της Black Friday, θα βρεις hot προτάσεις στις hot κατηγορίες όπως 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/tilefonia/kinita-smartphones">Κινητά</a>, 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/tileoraseis/tileoraseis">TVs</a>, 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/wearables-gadgets/smartwatches">Smartwatches</a>, 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/computers-and-software/laptops">Laptops</a>, 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/fotografia/action-cameras">Action Cameras</a>, 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/gaming/gaming-controllers/gaming-chairs">Gaming Chairs</a>, 
+								<a type="button" class="text-info" href="https://www.public.gr/root/oikiakes-syskeyes/psygeia">Ψυγεία</a>, 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/oikiakes-syskeyes/kouzines-fournakia/kouzines">Ηλεκτρικές Κουζίνες</a>, 
+								<a type="button" class="text-info" href="https://www.public.gr/cat/oikiakes-syskeyes/plysimo-stegnwma/plyntiria-rouxwn">Πλυντήρια </a>και χιλιάδες ακόμα προϊόντα για σένα ή το σπίτι σου!</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+    </article>
+    <script type="text/javascript" src="https://media.public.gr/scripts/2024-reusable-asset/faq/script.js" defer="defer"></script>
+</section>
+
+
